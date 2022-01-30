@@ -1,0 +1,4 @@
+base de dados API
+base: u599149457_api
+user: u599149457_api
+senha: Gra#2908

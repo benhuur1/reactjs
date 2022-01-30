@@ -1,4 +1,4 @@
-export const API_URL = 'http://api.eideveloper.com.br/json';
+export const API_URL = 'https://revendedoradlux.com.br/api/json';
 
 export function TOKEN_POST(body) {
   return {
