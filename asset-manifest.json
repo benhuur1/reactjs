@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/reactjs/static/css/main.9f82f8f7.chunk.css",
-    "main.js": "/reactjs/static/js/main.82c628e9.chunk.js",
-    "main.js.map": "/reactjs/static/js/main.82c628e9.chunk.js.map",
+    "main.js": "/reactjs/static/js/main.ca071e5a.chunk.js",
+    "main.js.map": "/reactjs/static/js/main.ca071e5a.chunk.js.map",
     "runtime-main.js": "/reactjs/static/js/runtime-main.94bffe78.js",
     "runtime-main.js.map": "/reactjs/static/js/runtime-main.94bffe78.js.map",
     "static/js/2.346bef16.chunk.js": "/reactjs/static/js/2.346bef16.chunk.js",
     "static/js/2.346bef16.chunk.js.map": "/reactjs/static/js/2.346bef16.chunk.js.map",
-    "static/js/3.a8cebca9.chunk.js": "/reactjs/static/js/3.a8cebca9.chunk.js",
-    "static/js/3.a8cebca9.chunk.js.map": "/reactjs/static/js/3.a8cebca9.chunk.js.map",
+    "static/js/3.e4dfcf13.chunk.js": "/reactjs/static/js/3.e4dfcf13.chunk.js",
+    "static/js/3.e4dfcf13.chunk.js.map": "/reactjs/static/js/3.e4dfcf13.chunk.js.map",
     "static/css/4.ba08dd29.chunk.css": "/reactjs/static/css/4.ba08dd29.chunk.css",
     "static/js/4.2598dfba.chunk.js": "/reactjs/static/js/4.2598dfba.chunk.js",
     "static/js/4.2598dfba.chunk.js.map": "/reactjs/static/js/4.2598dfba.chunk.js.map",
     "index.html": "/reactjs/index.html",
-    "precache-manifest.dc7265bdfe533521b3315d5c3a243f24.js": "/reactjs/precache-manifest.dc7265bdfe533521b3315d5c3a243f24.js",
+    "precache-manifest.7ec69396c3c009c082d8ca9115a35fea.js": "/reactjs/precache-manifest.7ec69396c3c009c082d8ca9115a35fea.js",
     "service-worker.js": "/reactjs/service-worker.js",
     "static/css/4.ba08dd29.chunk.css.map": "/reactjs/static/css/4.ba08dd29.chunk.css.map",
     "static/css/main.9f82f8f7.chunk.css.map": "/reactjs/static/css/main.9f82f8f7.chunk.css.map",
-    "static/js/3.a8cebca9.chunk.js.LICENSE.txt": "/reactjs/static/js/3.a8cebca9.chunk.js.LICENSE.txt",
+    "static/js/3.e4dfcf13.chunk.js.LICENSE.txt": "/reactjs/static/js/3.e4dfcf13.chunk.js.LICENSE.txt",
     "static/media/adicionar.4a6d6ceb.svg": "/reactjs/static/media/adicionar.4a6d6ceb.svg",
     "static/media/dogs-footer.8cc31290.svg": "/reactjs/static/media/dogs-footer.8cc31290.svg",
     "static/media/dogs.849a6443.svg": "/reactjs/static/media/dogs.849a6443.svg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.94bffe78.js",
-    "static/js/3.a8cebca9.chunk.js",
+    "static/js/3.e4dfcf13.chunk.js",
     "static/css/main.9f82f8f7.chunk.css",
-    "static/js/main.82c628e9.chunk.js"
+    "static/js/main.ca071e5a.chunk.js"
   ]
 }
