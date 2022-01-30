@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/reactjs/static/css/main.9f82f8f7.chunk.css",
+    "main.js": "/reactjs/static/js/main.18bd138d.chunk.js",
+    "main.js.map": "/reactjs/static/js/main.18bd138d.chunk.js.map",
+    "runtime-main.js": "/reactjs/static/js/runtime-main.94bffe78.js",
+    "runtime-main.js.map": "/reactjs/static/js/runtime-main.94bffe78.js.map",
+    "static/js/2.346bef16.chunk.js": "/reactjs/static/js/2.346bef16.chunk.js",
+    "static/js/2.346bef16.chunk.js.map": "/reactjs/static/js/2.346bef16.chunk.js.map",
+    "static/js/3.984469fd.chunk.js": "/reactjs/static/js/3.984469fd.chunk.js",
+    "static/js/3.984469fd.chunk.js.map": "/reactjs/static/js/3.984469fd.chunk.js.map",
+    "static/css/4.ba08dd29.chunk.css": "/reactjs/static/css/4.ba08dd29.chunk.css",
+    "static/js/4.2598dfba.chunk.js": "/reactjs/static/js/4.2598dfba.chunk.js",
+    "static/js/4.2598dfba.chunk.js.map": "/reactjs/static/js/4.2598dfba.chunk.js.map",
+    "index.html": "/reactjs/index.html",
+    "precache-manifest.eb378d6e00104f0d1822dbf6f52cd26b.js": "/reactjs/precache-manifest.eb378d6e00104f0d1822dbf6f52cd26b.js",
+    "service-worker.js": "/reactjs/service-worker.js",
+    "static/css/4.ba08dd29.chunk.css.map": "/reactjs/static/css/4.ba08dd29.chunk.css.map",
+    "static/css/main.9f82f8f7.chunk.css.map": "/reactjs/static/css/main.9f82f8f7.chunk.css.map",
+    "static/js/3.984469fd.chunk.js.LICENSE.txt": "/reactjs/static/js/3.984469fd.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/reactjs/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.8cc31290.svg": "/reactjs/static/media/dogs-footer.8cc31290.svg",
+    "static/media/dogs.849a6443.svg": "/reactjs/static/media/dogs.849a6443.svg",
+    "static/media/enviar.9f80ad3d.svg": "/reactjs/static/media/enviar.9f80ad3d.svg",
+    "static/media/estatisticas.5b48807f.svg": "/reactjs/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/reactjs/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/reactjs/static/media/login.824d7d85.jpg",
+    "static/media/sair.4175ea72.svg": "/reactjs/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/reactjs/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/reactjs/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/reactjs/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94bffe78.js",
+    "static/js/3.984469fd.chunk.js",
+    "static/css/main.9f82f8f7.chunk.css",
+    "static/js/main.18bd138d.chunk.js"
+  ]
+}
